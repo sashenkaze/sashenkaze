@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a **Self-Taught** Programmer & **Student**  currently in my second year of programming. While my academic path has me mastering the web, my true curiosity lies in the world of Machine Learning.</p>
+<p align="left">I'm a <span style="font: bold;">Self-Taught Programmer & Student</span> currently in my second year of programming. While my academic path has me mastering the web, my true curiosity lies in the world of Machine Learning.</p>
 
 ###
 
