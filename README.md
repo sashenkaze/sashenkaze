@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning React, API integration, and Machine Learning basics<br>🎯 Goals: Build real-world projects and improve problem-solving skills<br>🎲 Fun fact: I enjoy debugging more than writing new code (sometimes)</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning React, Flutter, and Machine Learning basics<br>🎯 Goals: Build real-world projects and improve problem-solving skills<br>🎲 Fun fact: I enjoy debugging more than writing new code (sometimes)</p>
 
 ###
 
