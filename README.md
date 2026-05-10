@@ -1,7 +1,7 @@
 # Hi👋, I'm Sashenka Osaze. 
 
-## 💫 About Me:
-I'm a Self-Taught Programmer & Student currently in my second year of programming. While my academic path has me mastering the web, my true curiosity lies in the world of Machine Learning.
+<!-- ## 💫 About Me:
+I'm a Self-Taught Programmer & Student currently in my second year of programming. While my academic path has me mastering the web, my true curiosity lies in the world of Machine Learning. -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shenka_aze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sashenkaosazee@gmail.com) 
