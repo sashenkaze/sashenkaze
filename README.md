@@ -1,81 +1,16 @@
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Vikash PR</p>
-
-<!-- <p align="center">
-<img width="120" src="https://github.com/VikashPR/VikashPR/assets/69889418/f749b025-1d9a-46a8-9bd0-5182c570551e">
-</p> -->
-
-<p align="center"> 
-I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>spare time</del> full time 🙃
-</p> 
-
-<br/>
-
- <p align="center">
-  <a href="#"> <img src="assets/2.gif"><a/>
-  <a href="#"><img src="assets/8.gif"><a/>
-  <a href="#"><img src="assets/0.gif"><a/>
-  <a href="#"><img src="assets/6.gif"><a/>
-</p>
-	  
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
-
-☞ 〔 🐵 〕 <!-- <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> --> <a href="https://www.sc.com/en/">![Standard Charted](https://img.shields.io/badge/Software%20Engineer-%40Standard%20Charted-brightgreen)</a>
-
-☞ 〔 🤾 〕22
-
-☞ 〔 :octocat: 〕Github Simp
-
-☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=vikashpr&color=dc143c)
-
-☞ 〔 🐼 〕SD - Research - AI
-
-<br>
-
-### aboutMe.Js:
-
-```javascript
-const VikashPR = {
-   pronouns: "he" | "him",
-   code: ["JS", "PYTHON"],
-   askMeAbout: ["Software Engineering", "AI", "Reserch"],
-   technologies: {
-       frontEnd: {
-           js: ["Vue.js", "React.js", "Next.js", "Springboot"]
-       },
-       backEnd: {
-           basS: ["Firebase"]
-       },
-       competitive: {
-           compilerLang: ["C/C++"],
-           interpretedLang: ["PYTHON"]
-       }
-   }
-};
-```
-
-<img  width="450em" src="https://github-readme-streak-stats-fawn-three.vercel.app?user=vikashpr&theme=vue-dark" alt="VikashPR Streak" /> 
-
-<img width="46%" src="metrics/pagespeed-detailed.svg"> 
+# 💫 About Me:
+I'm a Self-Taught Programmer & Student currently in my second year of programming. While my academic path has me mastering the web, my true curiosity lies in the world of Machine Learning.
 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Github contributions:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sashenkaze&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sashenkaze&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sashenkaze&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- <h4 align="center">My contribution graph</h4>
-<p align="center"> <img width="900em" src="https://github-readme-activity-graph.vercel.app/graph?username=vikashpr&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p> 
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sashenkaze&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
-
-<p align="center"> <img  width="900em" alt="vikash2806's Github comitte snake"  src="https://github.com/VikashPR/VikashPR/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
-<h4 align="center">Isometric view of contributions in the last year.</h4>
-	  
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
-<br/>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=To%20know,%20is%20to%20know%20that%20you%20know%20nothing.&author=Wise%20man" /> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
